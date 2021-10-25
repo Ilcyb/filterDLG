@@ -1,0 +1,10 @@
+.DS_Store
+._.DS_Store
+experiments_configs/
+.idea/
+datasets/
+Experiments/
+DebugExperiments/
+__pycache__/
+logs/
+.vscode/
